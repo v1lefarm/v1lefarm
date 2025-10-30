@@ -7,7 +7,7 @@
 ## ✨ Features
 
 ### 🧑‍💻 User Features
-- **User Authentication:** Manus OAuth integration for secure login  
+- **User Authentication:** V1le OAuth integration for secure login  
 - **Profile Management:** Editable bio, username, email, and profile picture upload  
 - **Product Ordering:** Order the **God Complex** product in flexible quantities *(2g, 2.5g, 5g, 10g, or custom)*  
 - **Telegram Integration:** Orders require Telegram username for communication  
@@ -23,7 +23,7 @@
 - **Order Deletion:** Delete individual orders from the system  
 
 ### ⚙️ Technical Features
-- **Dark Mode UI:** Purple-themed dark interface with animated effects  
+- **Dark Mode UI:** red-themed dark interface with animated effects  
 - **Telegram Bot:** Automatic order notifications with inline approve/deny buttons  
 - **S3 Storage:** Profile and product images stored in S3  
 - **Database:** MySQL with Drizzle ORM for type-safe queries  
