@@ -1,4 +1,4 @@
-# 🌿 V1le Farm E-Commerce App
+# 🌿 V1LE FARM
 
 > A full-stack e-commerce platform built for premium product sales with secure authentication, Telegram integration, and advanced admin controls.
 
