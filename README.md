@@ -17,7 +17,7 @@ V1LE Farm lets customers browse, order, and track their purchases while admins r
 ✅ **Order Management** — Track order status and order history  
 ✅ **Telegram Notifications** — Real-time updates to admin + group chat  
 ✅ **Interactive Buttons** — Approve/reject orders from Telegram  
-✅ **Dark Theme** — Black and red palette with V1LE branding  
+✅ **Dark Theme** — Black and Rainbow LED palette with V1LE branding  
 
 ---
 
