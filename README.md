@@ -37,9 +37,9 @@ V1LE FARM lets customers browse, order, and track their purchases while admins r
 The bot is already configured with:
 
 ```env
-Bot Token: 7815244310:AAH_Pr-8qbKysycnnznahrAQ4zZOfva0XUg
-Admin Chat ID: 6665237815
-Group Chat ID: -4959546169 orders  
+Bot Token: #####
+Admin Chat ID: #####
+Group Chat ID: ##### orders  
 - **Order Deletion:** Delete individual orders from the system  
 
 ### ⚙️ Technical Features
