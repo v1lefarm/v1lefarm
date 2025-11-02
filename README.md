@@ -1,12 +1,12 @@
-# 🌿 V1LE Farm — Setup Guide
+# 🪴 V1LE FARM — SITE + BOT
 
-> **V1LE Farm** is a premium cannabis ordering web application built with Telegram authentication, real-time bot notifications, and admin controls — all wrapped in a sleek dark red aesthetic.
+> **V1LE FARM** is a premium cannabis ordering web application built with Telegram authentication, real-time bot notifications, and admin controls — all wrapped in a sleek dark red aesthetic.
 
 ---
 
 ## 📖 Overview
 
-V1LE Farm lets customers browse, order, and track their purchases while admins receive instant Telegram alerts with interactive approval buttons.
+V1LE FARM lets customers browse, order, and track their purchases while admins receive instant Telegram alerts with interactive approval buttons.
 
 ---
 
@@ -50,3 +50,4 @@ Group Chat ID: -4959546169 orders
 - **Backend API:** tRPC for end-to-end type safety  
 
 ---
+© 2025 V1LE Farm. All rights reserved.
