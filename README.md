@@ -43,7 +43,7 @@ Group Chat ID: -4959546169 orders
 - **Order Deletion:** Delete individual orders from the system  
 
 ### ⚙️ Technical Features
-- **Dark Mode UI:** red-themed dark interface with animated effects  
+- **Dark Mode UI:** Rainbow LED Themed dark interface with animated effects  
 - **Telegram Bot:** Automatic order notifications with inline approve/deny buttons  
 - **S3 Storage:** Profile and product images stored in S3  
 - **Database:** MySQL with Drizzle ORM for type-safe queries  
