@@ -1,25 +1,45 @@
-# 🌿 V1LE FARM
+# 🌿 V1LE Farm — Setup Guide
 
-> A full-stack e-commerce platform built for premium product sales with secure authentication, Telegram integration, and advanced admin controls.
+> **V1LE Farm** is a premium cannabis ordering web application built with Telegram authentication, real-time bot notifications, and admin controls — all wrapped in a sleek dark red aesthetic.
+
+---
+
+## 📖 Overview
+
+V1LE Farm lets customers browse, order, and track their purchases while admins receive instant Telegram alerts with interactive approval buttons.
 
 ---
 
 ## ✨ Features
 
-### 🧑‍💻 User Features
-- **User Authentication:** V1le OAuth integration for secure login  
-- **Profile Management:** Editable bio, username, email, and profile picture upload  
-- **Product Ordering:** Order the **God Complex** product in flexible quantities *(2g, 2.5g, 5g, 10g, or custom)*  
-- **Telegram Integration:** Orders require Telegram username for communication  
-- **Order Management:** View, cancel, and delete personal orders  
-- **Reviews:** Leave one review per product with ratings and comments  
-- **Profile Display:** Animated spinning profile pictures with red glow effect  
+✅ **Telegram Authentication** — Secure login via Manus OAuth  
+✅ **Product Ordering** — “God Complex” strain at **$10/gram** (min 0.5g)  
+✅ **Order Management** — Track order status and order history  
+✅ **Telegram Notifications** — Real-time updates to admin + group chat  
+✅ **Interactive Buttons** — Approve/reject orders from Telegram  
+✅ **Dark Theme** — Black and red palette with V1LE branding  
 
-### 🛠️ Admin Features
-- **Order Management:** View all orders, approve/reject/cancel orders  
-- **User Management:** Search users and assign admin roles  
-- **Store Control:** Toggle store open/close status to prevent new orders  
-- **Order Statistics:** Dashboard showing pending, approved, rejected, and cancelled orders  
+---
+
+## 🗺️ Pages
+
+| Page | Route | Description |
+|------|--------|-------------|
+| 🏠 **Home** | `/` | Landing page with branding & navigation |
+| 🌿 **Category** | `/category` | Product catalog and ordering page |
+| 📜 **Order History** | `/orders` | Displays all past orders with status badges |
+
+---
+
+## 🤖 Telegram Bot Setup
+
+### 🔧 Bot Configuration
+The bot is already configured with:
+
+```env
+Bot Token: 7815244310:AAH_Pr-8qbKysycnnznahrAQ4zZOfva0XUg
+Admin Chat ID: 6665237815
+Group Chat ID: -4959546169 orders  
 - **Order Deletion:** Delete individual orders from the system  
 
 ### ⚙️ Technical Features
