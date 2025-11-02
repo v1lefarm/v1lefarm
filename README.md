@@ -49,5 +49,6 @@ Group Chat ID: -4959546169 orders
 - **Database:** MySQL with Drizzle ORM for type-safe queries  
 - **Backend API:** tRPC for end-to-end type safety  
 
----
-© 2025 V1LE Farm. All rights reserved.
+---------------------------------------------
+© 2025 V1LE FARM. All rights reserved.
+---------------------------------------------
